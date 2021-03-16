@@ -7,3 +7,4 @@ Inspiring from the paper "Reducing the Dimensionality of Data with Neural Networ
 2. [Autoencoders](https://www.jeremyjordan.me/autoencoders/)
 3. [Keras Implementation](https://blog.keras.io/building-autoencoders-in-keras.html)
 4. [Understanding Confusion matrix for multi-class image classifier](https://towardsdatascience.com/a-simple-cnn-multi-image-classifier-31c463324fa)
+5. [Clear TF Keras session before training to reinitialize the parameters for training](https://www.tensorflow.org/api_docs/python/tf/keras/backend/clear_session)
